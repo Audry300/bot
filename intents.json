@@ -4,17 +4,17 @@
     ],"context_set":""
         },
     
-    {"tag":"age","patterns":["How old are you","what is your age","age?"],
+    {"tag":"age","patterns":["How old are you","what is your age","age"],
     "responses":["23 years old","Turning 24 this month."],
     "context_set":""
     },
 
-    {"tag":"name","patterns":["what is your name","Your name?","whats your name"],
+    {"tag":"name","patterns":["what is your name","Your name","whats your name"],
     "responses":["My name is Audry Robert, you can call me Robert"],
     "context_set":""},
     
     
-    {"tag":"school","patterns":["what is the name of your University?","the name of the school?"],
+    {"tag":"school","patterns":["what is the name of your University","the name of the school","school","university"],
         "responses":["University of Ottawa"],
         "context_set":""
 
